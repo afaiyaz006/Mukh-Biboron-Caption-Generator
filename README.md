@@ -8,5 +8,14 @@ Please ensure that the list_attr_celeba.csv file is located in the same director
 ```
 python caption_generator.py
 ```
+This will generate directories that contain a text file with captions corresponding to each image.
+```
+-Captions
+  |---000001/000001.txt
+  |---000002/000002.txt
+  |
+  |
+  |---202599/202599.txt
+```
 
 
