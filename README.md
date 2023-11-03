@@ -1,7 +1,7 @@
 # Mukh-Biboron-Caption-Generator
 ### Description
 
-The script generates Bangla caption from publicly available celebA dataset provided [here](https://drive.google.com/drive/folders/0B7EVK8r0v71pOC0wOVZlQnFfaGs?resourcekey=0-pEjrQoTrlbjZJO2UL8K_WQ).
+The script generates Bangla caption from publicly available celebA dataset provided [here](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset?select=list_attr_celeba.csv).
 
 ### Usage
 Please ensure that the annotations.csv file is located in the same directory as the script before executing it.
