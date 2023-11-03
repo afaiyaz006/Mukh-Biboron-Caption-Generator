@@ -347,7 +347,7 @@ def caption_generator(
 
 if __name__=='__main__':
     files=os.listdir('.')
-    attr_file_name="list_attr_celeba.csv"
+    attr_file_name="annotations.csv"
     attr_file_url="ftp://example[.]com/list_attr_celeba.csv"
     if not attr_file_name in files:
         print("Downloading attribute file please wait....")
